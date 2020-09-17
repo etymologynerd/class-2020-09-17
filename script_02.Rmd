@@ -1,6 +1,6 @@
 ---
 title: "Week 2"
-author: "David Kane"
+author: "Adam Aleksic"
 output: html_document
 ---
 
